@@ -1,0 +1,7 @@
+name: RealHealthPlaceholder
+version: ${project.version}
+main: com.dolphln.realhealthplaceholder.RealHealthPlaceholder
+api-version: 1.13
+depend: [ PlaceholderAPI ]
+authors: [ Dolphln ]
+website: dolphln.com
